@@ -261,6 +261,11 @@ See [examples](examples/README.md) for progressive Web Application Firewall Poli
 
 ---
 
+## Related technical articles
+
+- [Azure Three-Tier Architecture: Application Gateway, VMSS and PostgreSQL](https://foggykitchen.com/2026/10/12/azure-three-tier-architecture-application-gateway-postgresql/)
+  — Explore Application Gateway WAF, private application tiers and PostgreSQL, including validation boundaries.
+
 ## 🪪 License
 
 Licensed under the **Universal Permissive License (UPL), Version 1.0**.
